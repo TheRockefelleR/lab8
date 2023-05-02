@@ -11,5 +11,8 @@
 
 # Sprawdzenie przypisanej ilosci ramu oraz przypisania wolumenu
 ![image](https://user-images.githubusercontent.com/84729968/235648295-6b227631-bf15-4493-91fd-a41491df902a.png)
+
 ![image](https://user-images.githubusercontent.com/84729968/235648348-3a3cd9d1-6067-44eb-819b-e15ff1d0db1b.png)
+
 ![image](https://user-images.githubusercontent.com/84729968/235648443-56b633ac-2c58-417e-8ea5-5c3fcd6938b5.png)
+
