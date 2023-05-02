@@ -16,6 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/84729968/235648443-56b633ac-2c58-417e-8ea5-5c3fcd6938b5.png)
 
+# Sprawdzenie poleceniem docker stats
+Dokonanie sprawdzenia tego polecenia wymagało modyfikacji dockerfile tak by kontener nie wyłączał się po wykonaniu zadania
+![image](https://user-images.githubusercontent.com/84729968/235662120-14e22a1f-9942-458d-8c7c-e0be1621baa6.png)
+
 # Sprawdzenie istnienia pliku w systemie macierzystym
 ![image](https://user-images.githubusercontent.com/84729968/235650120-9dca58e9-a370-4e00-b625-ea1d0ac4fd6d.png)
 
