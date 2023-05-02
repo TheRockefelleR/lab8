@@ -23,3 +23,8 @@ Dokonanie sprawdzenia tego polecenia wymagało modyfikacji skryptu tak by konten
 # Sprawdzenie istnienia pliku w systemie macierzystym
 ![image](https://user-images.githubusercontent.com/84729968/235650120-9dca58e9-a370-4e00-b625-ea1d0ac4fd6d.png)
 
+# Próba użycia cAdvisor
+Prawdopodobnie przy użyciu dockera na windows przez wsl konfiguracja cAdvisor musi wyglądać inaczej gdyż nie wyświetla nam uruchomionego kontenera w <b>Subcontainers</b>
+![image](https://user-images.githubusercontent.com/84729968/235697227-b3db77aa-6b9c-47c0-bda6-4b9a9b309560.png)
+
+
